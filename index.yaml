@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  burger-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-16T00:14:35.119375342+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 6360b05f0c653f7a2daf5f3b1a8b0932cd99ef11ad1cac4618aa163b28b3d12d
+    name: burger-app
+    type: application
+    urls:
+    - burger-app-0.1.0.tgz
+    version: 0.1.0
+  pizza-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-16T00:14:35.11998863+05:30"
+    description: A Helm chart for Kubernetes
+    digest: ced8966ab470f589f4e3389e9f0aa9ae4661d7e3892cd21b509feb9e091f9e01
+    name: pizza-app
+    type: application
+    urls:
+    - pizza-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-16T00:14:35.118242256+05:30"
